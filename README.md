@@ -3,7 +3,7 @@ Check out the minimal portfolio at https://chriskhanhtran.github.io/minimal-port
 # Hi there, I'm Rihana 👋
 ## About me:
 - I’m currently studying Undergraduate Statistics at [Diponegoro University](https://www.undip.ac.id)
-- I'm currently a Data Analitycs Independent Study at Zenius Education  
+- I'm currently a Data Analitycs Independent Student at Zenius Education  
 - I’m currently learning Python and SQL
 
 ## Education:
