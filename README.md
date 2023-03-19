@@ -1,5 +1,3 @@
-Check out the minimal portfolio at https://chriskhanhtran.github.io/minimal-portfolio
-
 # Hi there, I'm Rihana 👋
 ## About me:
 - I’m currently studying Undergraduate Statistics at [Diponegoro University](https://www.undip.ac.id)
