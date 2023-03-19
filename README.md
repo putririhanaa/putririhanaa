@@ -7,7 +7,7 @@ Check out the minimal portfolio at https://chriskhanhtran.github.io/minimal-port
 - I’m currently learning Python and SQL
 
 ## Education:
-#### 1. [Diponegoro University](https://www.undip.ac.id) | Undergraduate Statistics | Semarang `2020-now`
+#### [Diponegoro University](https://www.undip.ac.id) | Undergraduate Statistics | Semarang `2020-now`
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/putri-rihana-dewi-8882ba221#gh-light-mode-only)
